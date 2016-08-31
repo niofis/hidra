@@ -1,0 +1,19 @@
+{
+  "name": "hidra",
+  "version": "0.1.0",
+  "description": "Distributed processing node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niofis/hidra.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niofis/hidra/issues"
+  },
+  "homepage": "https://github.com/niofis/hidra#readme"
+}
